@@ -1,0 +1,22 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "Mi primer Programa de devtree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarramos2001/devtree.git"
+  },
+  "author": "Oscar Marino Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarramos2001/devtree/issues"
+  },
+  "homepage": "https://github.com/oscarramos2001/devtree#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
